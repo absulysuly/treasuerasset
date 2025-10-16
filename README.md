@@ -1,0 +1,2 @@
+# treasuerasset
+all asset
